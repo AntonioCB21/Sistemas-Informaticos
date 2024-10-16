@@ -19,11 +19,11 @@ El factor de forma se refiere a las dimensiones y la disposición de los compone
 
 - **MicroATX:**
   - Tamaño: 244 mm x 244 mm
-  - Características: Menor número de puertos de expansión, ideal para sistemas compactos.
+  - Características: Menor número de puertos de expansión, ideal para conectar unidades externas.
 
 - **Mini-ITX:**
   - Tamaño: 170 mm x 170 mm
-  - Características: Muy compacta, adecuada para sistemas de bajo consumo y HTPC (Home Theater PC).
+  - Características: Adecuada para sistemas de bajo consumo con la integración de funcionalidades como red, gráficos, USB, Firewire etc.
 
 - **E-ATX (Extended ATX):**
   - Tamaño: 305 mm x 330 mm
