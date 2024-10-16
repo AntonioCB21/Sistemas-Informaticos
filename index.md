@@ -43,4 +43,4 @@ Los componentes clave de una placa base incluyen:
 
 ## Conclusión
 
-La placa base es un componente esencial en cualquier sistema informático. Su evolución, formatos y componentes han permitido el desarrollo de tecnologías cada vez más avanzadas, adaptándose a las necesidades de los usuarios modernos.
+La placa base es un componente esencial en cualquier sistema informático. Su evolución, formatos y componentes han permitido el desarrollo de nuevas tecnologías a lo largo de los años, adaptándose a las necesidades de los usuarios modernos.
