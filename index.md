@@ -23,7 +23,7 @@ El factor de forma se refiere a las dimensiones y la disposición de los compone
 
 - **Mini-ITX:**
   - Tamaño: 170 mm x 170 mm
-  - Características: Adecuada para sistemas de bajo consumo con la integración de funcionalidades como red, gráficos, USB, Firewire etc.
+  - Características: Adecuada para sistemas de bajo consumo con la integración de funcionalidades como red, gráficos, USB, etc.
 
 - **E-ATX (Extended ATX):**
   - Tamaño: 305 mm x 330 mm
